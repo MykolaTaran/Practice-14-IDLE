@@ -1,0 +1,10 @@
+Series Name,Series Code,Country Name,Country Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+Adults (ages 15+) and children (0-14 years) living with HIV,SH.HIV.TOTL,Germany,DEU,64000,66000,69000,72000,75000,78000,81000,84000,86000,89000,92000
+Adults (ages 15+) and children (0-14 years) living with HIV,SH.HIV.TOTL,Ukraine,UKR,230000,230000,230000,230000,230000,230000,230000,230000,240000,240000,240000
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Data from database: Health Nutrition and Population Statistics,,,,,,,,,,,,,,
+Last Updated: 09/21/2023,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Long definition,Source,Topic,Periodicity
+SH.HIV.TOTL,CC BY-4.0,Adults (ages 15+) and children (0-14 years) living with HIV,Adults and children living with HIV refers to the number of people ages 0-49 (adult ages 15-49 and children ages 0-14) who are infected with HIV.,UNAIDS estimates.,Health: Risk factors,Annual
